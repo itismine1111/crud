@@ -1,4 +1,4 @@
-from django.db import models, reset_queries
+from django.db import models
 
 # Create your models here.
 
